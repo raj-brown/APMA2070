@@ -14,7 +14,7 @@ The main objective of this course is to teach concepts and implementation of dee
 * [<span style="color:blue"> <em>Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Auréliean Géron</em> </span>](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
 **Learning curve**
-![Learning curve](images/learning_curve) 
+![Learning curve](images/learning_curve.png?raw=true "Title") 
 
 
   
