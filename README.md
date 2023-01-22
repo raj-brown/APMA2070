@@ -17,10 +17,6 @@ The main objective of this course is to teach concepts and implementation of dee
 ![Learning curve](images/learning_curve.png?raw=true "Title") 
 
 
-  
-
-
-
 ## Module I: Basics 
 
 1. **Introduction** 
