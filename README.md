@@ -19,9 +19,9 @@ The main objective of this course is to teach concepts and implementation of dee
 
 ## Module I: Basics 
 
-1. **Introduction** [Slids](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf) 
+1. **Introduction** 
    
-2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf)    
+2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_1_Notebook/python_primer.ipynb)    
    
 3. **Deep Learning Networks** 
 
@@ -62,35 +62,35 @@ The main objective of this course is to teach concepts and implementation of dee
 
 1. **Biomedicine**
    * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf)  
-   * Predicting drug absorption using a physics-informed neural network: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-2.pdf) 
-   * Parameter identification in Glucose-Insulin interaction: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-3.pdf)
-   * Parameter Estimation in Thrombus Formation: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-4.pdf)
+   * Predicting drug absorption using a physics-informed neural network
+   * Parameter identification in Glucose-Insulin interaction: [Project Description]
+   * Parameter Estimation in Thrombus Formation: [Project Description]
 
 2. **Dynamical Systems**
-   * Charged particle in a electromagnetic field: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-5.pdf) 
-   * Learning dynamical systems from data: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-6.pdf) 
-   * Stiff ODE systems: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-7.pdf)
+   * Charged particle in a electromagnetic field 
+   * Learning dynamical systems from data
+   * Stiff ODE systems
 
 3. **Engines**
-   * Learning engine parameters: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-8.pdf)
+   * Learning engine parameters
 
 4. **Fluid Mechanics**
-   * Modeling Bubble Growth Dynamics: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-9.pdf)
-   * Reconstruction of flow past a cylinder: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-10.pdf)
-   * Reconstruction of flow field for a lid driven cavity flow: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-11.pdf)
-   * Solving forward and inverse problems in mathematical modeling of wave propagation: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-12.pdf)
+   * Modeling Bubble Growth Dynamics
+   * Reconstruction of flow past a cylinder
+   * Reconstruction of flow field for a lid driven cavity flow
+   * Solving forward and inverse problems in mathematical modeling of wave propagation
 
 5. **Geophysics**
-   * Microseismic hypocenter localization using PINNs: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-13.pdf) 
-   * Diffusion-Reaction in porous media: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-14.pdf)
-   * Estimating sea-surface temperature using multi-fidelity data: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-15.pdf)
+   * Microseismic hypocenter localization using PINNs
+   * Diffusion-Reaction in porous media
+   * Estimating sea-surface temperature using multi-fidelity data
 
 6. **Heat Transfer**
-   * Inverse heat transfer problem: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-16.pdf)
-   * Steady state non-linear inverse heat conduction problem: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-17.pdf)
-   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-18.pdf)
-
+   * Inverse heat transfer problem
+   * Steady state non-linear inverse heat conduction problem
+   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser
+   
 7. **Materials**
-   * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-19.pdf)
-   * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-20.pdf)
+   * Inverse Problem on Modulus Identification of Hyperelastic Material
+   * Characterizing surface breaking crack using ultrasound data and PINNs
 
