@@ -1,23 +1,11 @@
-# Deep Learning for Scientistis and Engineers: Brown University
+# APMA-2070: Deep Learning for Scientistis and Engineers: Brown University
 
 The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
-
-![title](./images/logos.png)
-
-
-
-
-
-
-
-
-
 
 
 
 # Syllabus, Lectures and Codes 
 
-**Lectures**: Pre-recorded videos and PDFs 
 
 **Textbook and Other Reading Materials**: 
 
@@ -31,119 +19,42 @@ The main objective of this course is to teach concepts and implementation of dee
 
 ## Module I: Basics 
 
-1. **Introduction** 
-   * Deep learning: An overview
-   * Deep learning in computational science and engineering (Scientific Machine Learning)
-   * Types of learning
-     * Supervised learning
-     * Semi-supervised learning
-     * Unsupervised learning
-     * Self-supervised learning
-     * Adversarial learning 
+1. **Introduction** [Slids](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf) 
    
-2. **A primer on Python, NumPy, SciPy and jupyter notebooks** 
-   * Getting familiar with programming environment of the course 
-   * Introduction of ***jupyter*** notebook and setting it up on your machine.
-   * Basics of data structure and operation in NumpPy and SciPy 
-   * Installation of deep learning frameworks TensorFlow and PyTorch
-   * Introduction to Nvidia's deep learning container and installation
-
+2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf)    
+   
 3. **Deep Learning Networks** 
-   * Basics of regression model
-   * Fully connected feed-forward neural networks 
-   * Mathematics of neural network- The Universal Approximation Theorem 
-   * Training of neural Network: Loss functions, Forward and Backward passes
-   * Automatic-Differentiations: Reverse and Forward modes
-   * Connection of ReLU DNN with adaptive finite elements
 
-4. **A primer on TensorFlow and PyTorch**  
-   * Brief introduction of tensors and algebraic operations on tensors using PyTorch and TensorFlow
-   * A brief introduction on preparing data for training processes
-   * An example of implementation of regression problem in python with and with out PyTorch and TensorFlow 
-   * Demonstration on implementation of feed-forward fully-connected network in PyTorch and TensorFlow
-   * Demonstration on implementation of AD process in PyTorch and TensorFlow 
+4. **A primer on TensorFlow, PyTorch and JAX**  
    
 5. **Training and Optimization** 
-   * Definition and mathematics of optimization 
-   * Over-fitting and under-fitting
-   * Methods to solve the optimization problems
-   * Demonstration on implementation of the various optimization methods in PyTorch and TensorFlow
-
+   
 6. **Neural Network Architectures** 
-   * Convolution Neural Netowrks (CNN), Generative adversarial networks (GAN), Residual Neural Network (ResNet), Recurrent Neural Network (RNN), Long-short Time Memory Network (LSTM) 
-   * Demonstration on implementation of CNN, GAN, ResNet and LSTM in PyTorch and TensorFlow
+   
+
+## Module II: Neural Differential Equations
+
+1. **Lecture 7: Discovering Differential Equations**
+
+2. **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part I**
+
+3. **Lecture 10: Physics-Informed Neural Networks (PINNs)- Part II**
 
 
 
-## Module II: PDEs and Operators
+## Module III: Neural Operators
 
-1. **Multi-fiiedlity Training of Neural Networks** 
-   
-   * Definition and mathematics of multi-fidelity data fusion and muti-fidelity neural networks
-   * Demonstration on implementation of multi-fiedlity neural networks in PyTorch
-   
-2. **Data-Driven Dynamical Systems** 
-   
-   * Solving Ordinary Differential Equations (ODEs) through Neural Ordinary Differential Equation and its implementation in PyTorch
-   * Multi-step and Runge-Kutta Neural Networks and demonstration of their implementation in TensorFlow
-   
-3. **Physics-informed Neural Networks (PINNs) for ODEs and PDEs** 
-   
-   * Basic concepts of PINNs
-   * Demonstration on implementation of PINNs for ODEs in PyTorch and TensorFlow
-   * Demonstration on implementation of PINNs for PDEs in PyTorch and TensorFlow
-   
-4. **PINN Extensions and Features**
-   
-   * vPINN, hp-VPINNs, cPINN, gPINN and XPINN etc
-   * Introduction of GAN and physics-informed GANs (PI-GANs)for stochastic PDEs
-   * Demonstration on implementation of GAN and PI-GAN in PyTorch
-   * Introduction and theoretical background of adaptive activation function, dynamic weights and self adaptive PINNs
-   * Demonstration on implementation of adaptive activation function, dynamic weights, and self adaptive PINNs in TensorFlow, SimNet and PyTorch
-   
-5. **Neural Operators: DeepONet and Forier Neural Operator (FNO)**
+1. **Lecture 10: Deep Operator Network (DeepONet)**
+2. **Lecture 11: Fourier Neural Operator (FNO)**
 
-   * Introduction to operator learning - Universal approximation theorem
-   * Learning operator through DeepONet and Fourier Neural Operator (FNO) approach
-   * Demonstration and implementation of DeepONet in TensorFlow and Fourier Neural Operator in PyTorch
-   * Uncertainity Qunatification in SciML
+## Advanced Topics
 
-6. **Uncertainity Quantification in SciML**
+1. **DeepXDE framework**
+2. **Multi-GPU Scientific Machine Learning** 
 
-   * Introduction and theoretical Bayesian physics-informed neural networks (B-PINNs)
-   * Introduction and theoretical estimation of functional priors and posteriors using GANs
-   * Demonstration and implementation of B-PINNs and functional priors and posteriors in TensorFlow
-   * Demonstration of package **U-SciML**: A package for quantifying Uncertainity  in SciML
-   
-     
-
-## Module III: Codes and Scalability
-
-1. **DeepXde Library**
-   
-   * Introduction to Brown's DeepXde packages for PINNs.
-   * Building and installing the DeepXde
-   * Hands on demonstration on implementation of PINNs using DeepXde and other relevant implementation suchas debugging, geometry implementation, sampling of data points for training and testing etc.
-   
-2. **MODULUS Library**
-   * Introduction to NVIDIA's MODULUS package for PINNs and Design pattern
-   * Building MODULUS by using NVIDIA GPU CLOUD (NGC) containers
-   * Demonstration on implementation of PINNs using MODULUS
-   * Implementation of computational graph compilation, XLA based (Accelerated Linear Algebra) compilation, choice of precision for floats (TF32, BF16 (bFloat), FP16, FP32, FP.) vis-a-vis training cost on Nivida's latest GPU based on Ampere architecture (A100 and RTX3090) using MODULUS
-   
-3. **Multi-GPU Scientific Machine Learning**
-
-   * Introduction of data parallel approach for PINN on distributed (multi-GPU) computing platform
-   * Introduction of domain decomposition methods: Conservative PINN (cPINN) and Extended PINN (XPINN)
-   * Sampling of training and testing data for PINNs on simple, complex and irregular geometries
-   * Implementation of multi-GPU PINNs using data parallel approach in SimNet (TensorFlow) and PyTorch and MODULUS
-   * Demonstration on implementation of multi-GPU cPINN and XPINN using PyTorch and TensorFlow
 
 
 # Homeworks
-
-1. **Loss Landscape**
-![Function-approximation-loss-landscape](images/func.gif)
 
 
 
