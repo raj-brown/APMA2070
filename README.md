@@ -7,11 +7,15 @@ The main objective of this course is to teach concepts and implementation of dee
 # Syllabus, Lectures and Codes 
 
 
-**Textbook and Other Reading Materials**: 
+**Textbook and Other Reading Materials** 
 
 * [<span style="color:blue"> <em>Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville </em> </span>](https://www.deeplearningbook.org)
 
 * [<span style="color:blue"> <em>Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Auréliean Géron</em> </span>](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+
+**Learning curve**
+![](images/learning_curve) 
+
 
   
 
@@ -61,7 +65,7 @@ The main objective of this course is to teach concepts and implementation of dee
 # Term Projects
 
 1. **Biomedicine**
-   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](https://github.com/raj-brown/APMA2070/blob/main/Projects/Projects1/blood_coagulation.pdf)  
+   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](Projects/Projects1/blood_coagulation.pdf)  
    * Predicting drug absorption using a physics-informed neural network
    * Parameter identification in Glucose-Insulin interaction: [Project Description]
    * Parameter Estimation in Thrombus Formation: [Project Description]
