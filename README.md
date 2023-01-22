@@ -61,7 +61,7 @@ The main objective of this course is to teach concepts and implementation of dee
 # Term Projects
 
 1. **Biomedicine**
-   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](https://github.com/raj-brown/SciML_Nvidia_Brown/blob/main/Projects/Project-1.pdf)  
+   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](https://github.com/raj-brown/APMA2070/blob/main/Projects/Projects1/blood_coagulation.pdf)  
    * Predicting drug absorption using a physics-informed neural network
    * Parameter identification in Glucose-Insulin interaction: [Project Description]
    * Parameter Estimation in Thrombus Formation: [Project Description]
@@ -89,7 +89,7 @@ The main objective of this course is to teach concepts and implementation of dee
    * Inverse heat transfer problem
    * Steady state non-linear inverse heat conduction problem
    * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser
-   
+
 7. **Materials**
    * Inverse Problem on Modulus Identification of Hyperelastic Material
    * Characterizing surface breaking crack using ultrasound data and PINNs
