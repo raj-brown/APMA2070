@@ -19,7 +19,7 @@ The main objective of this course is to teach concepts and implementation of dee
 
 ## Module I: Basics 
 
-1. **Introduction** 
+1. **Introduction** [Slide](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0) 
    
 2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_1_Notebook/python_primer.ipynb)    
    
