@@ -20,32 +20,43 @@ The main objective of this course is to teach concepts and implementation of dee
 ## Module I: Basics 
 
 1. **Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0) 
-   
+   No Homework   
 2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_1_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)
-   
+   [Homework L2]
+
 3. **Deep Learning Networks** 
+   [Homework L3]
 
 4. **A primer on TensorFlow, PyTorch and JAX**  
-   
+    [Homework L4]
+
 5. **Training and Optimization** 
-   
-6. **Neural Network Architectures** 
-   
+    [Homework L5]
+
+6. **Neural Network Architectures** <!---[(Feb 15, 2023: end of Module I)]---> 
+    [Homework L6]
 
 ## Module II: Neural Differential Equations
 
 1. **Lecture 7: Discovering Differential Equations**
 
-2. **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part I**
+2. **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
 
-3. **Lecture 10: Physics-Informed Neural Networks (PINNs)- Part II**
-
+3. **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II**
 
 
 ## Module III: Neural Operators
 
 1. **Lecture 10: Deep Operator Network (DeepONet)**
 2. **Lecture 11: Fourier Neural Operator (FNO)**
+
+
+## Module IV: SciML Uncertainty Quantification (SciML-UQ)
+
+1. **Lecture 12: Machine Learning using Multi-Fidelity Data**
+2. **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning**
+
+
 
 ## Advanced Topics
 
