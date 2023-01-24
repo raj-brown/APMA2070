@@ -33,8 +33,9 @@ The main objective of this course is to teach concepts and implementation of dee
 5. **Training and Optimization** 
     [Homework L5]
 
-6. **Neural Network Architectures** <!---[(Feb 15, 2023: end of Module I)]---> 
-    [Homework L6]
+6. **Neural Network Architectures** 
+
+[Feb 15, 2023: end of Module I Homework L6]::
 
 ## Module II: Neural Differential Equations
 
