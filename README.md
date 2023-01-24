@@ -20,9 +20,9 @@ The main objective of this course is to teach concepts and implementation of dee
 ## Module I: Basics 
 
 1. **Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0) 
-   No Homework   
+   [No Homework]()   
 2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_1_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)
-   [Homework L2]
+   [Homework\_L2](Homeworks/HW\_L2.pdf)
 
 3. **Deep Learning Networks** 
    [Homework L3]
