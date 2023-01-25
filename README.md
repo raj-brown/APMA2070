@@ -25,15 +25,15 @@ The main objective of this course is to teach concepts and implementation of dee
    [Homework\_L2](Homeworks/HW\_L2.pdf)
 
 3. **Deep Learning Networks** 
-   [Homework L3]
+   [Homework\_L3]()
 
 4. **A primer on TensorFlow, PyTorch and JAX**  
-    [Homework L4]
+    [Homework\L4]()
 
 5. **Training and Optimization** 
-    [Homework L5]
+    [Homework_L5]()
 
-6. **Neural Network Architectures** 
+6. **Neural Network Architectures** [Homework\_6]()
 
 [Feb 15, 2023: end of Module I Homework L6]::
 
