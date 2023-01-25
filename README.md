@@ -61,6 +61,7 @@ The main objective of this course is to teach concepts and implementation of dee
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
 **Lecture 12: Machine Learning using Multi-Fidelity Data**
+
 **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning**
 
 
