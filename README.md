@@ -7,7 +7,7 @@ The main objective of this course is to teach concepts and implementation of dee
 2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
 
 
-# Office hours: Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
+## Office hours: Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 
 
 
