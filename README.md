@@ -13,6 +13,10 @@ The main objective of this course is to teach concepts and implementation of dee
 
 * [<span style="color:blue"> <em>Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Auréliean Géron</em> </span>](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
+* [<span style="color:blue"> <em>Conceptual Programming with Python</em> </span>](https://www.google.com/books/edition/Conceptual_Programming_with_Python/nUO0DwAAQBAJ?hl=en&gbpv=1&dq=conceptual+programming+with+python&printsec=frontcover)
+
+
+
 **Learning curve**
 ![Learning curve](images/learning_curve.png?raw=true "Title") 
 
