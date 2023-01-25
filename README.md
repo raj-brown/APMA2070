@@ -33,7 +33,7 @@ The main objective of this course is to teach concepts and implementation of dee
    [Homework\_L3]()
 
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX**  
-    [Homework\L4]()
+    [Homework\_L4]()
 
 **Lecture 5: Training and Optimization** 
  [Homework\_L5]()
