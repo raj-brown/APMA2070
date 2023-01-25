@@ -23,43 +23,43 @@ The main objective of this course is to teach concepts and implementation of dee
 
 ## Module I: Basics 
 
-1. **Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0) 
+**Lecture 1 : Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0) 
    [No Homework]()   
-2. **A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)
+**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)
    [Homework\_L2](Homeworks/HW\_L2.pdf)
 
-3. **Deep Learning Networks** 
+**Lecture 3: Deep Learning Networks** 
    [Homework\_L3]()
 
-4. **A primer on TensorFlow, PyTorch and JAX**  
+**Lecture 4: A primer on TensorFlow, PyTorch and JAX**  
     [Homework\L4]()
 
-5. **Training and Optimization** 
-    [Homework_L5]()
+**Lecture 5: Training and Optimization** 
+ [Homework\_L5]()
 
-6. **Neural Network Architectures** [Homework\_6]()
+**Lecture 6: Neural Network Architectures** 
+[Homework\_6]()
 
 [Feb 15, 2023: end of Module I Homework L6]::
 
 ## Module II: Neural Differential Equations
 
-1. **Lecture 7: Discovering Differential Equations**
+**Lecture 7: Discovering Differential Equations**
 
-2. **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
 
-3. **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II**
+**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II**
 
 
 ## Module III: Neural Operators
 
-1. **Lecture 10: Deep Operator Network (DeepONet)**
-2. **Lecture 11: Fourier Neural Operator (FNO)**
-
+**Lecture 10: Deep Operator Network (DeepONet)**
+**Lecture 11: Fourier Neural Operator (FNO)**
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
-1. **Lecture 12: Machine Learning using Multi-Fidelity Data**
-2. **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning**
+**Lecture 12: Machine Learning using Multi-Fidelity Data**
+**Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning**
 
 
 
