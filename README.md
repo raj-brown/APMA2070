@@ -38,7 +38,7 @@ The main objective of this course is to teach concepts and implementation of dee
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
 [Homework\_L3](Homeworks/HW\_L3.pdf)
 
-**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 1 and Feb 8, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jpupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 1 and Feb 8, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4]()
 
 **Lecture 5: Training and Optimization**  
