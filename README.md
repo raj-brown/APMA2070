@@ -32,13 +32,13 @@ The main objective of this course is to teach concepts and implementation of dee
 **Lecture 1 : Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0)  
 [No Homework]()   
 
-**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)  
+**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
 [Homework\_L2](Homeworks/HW\_L2.pdf)
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
 [Homework\_L3](Homeworks/HW\_L3.pdf)
 
-**Lecture 4: A primer on TensorFlow, PyTorch and JAX**  
+**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 1 and Feb 8, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jpupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4]()
 
 **Lecture 5: Training and Optimization**  
