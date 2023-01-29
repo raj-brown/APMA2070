@@ -35,8 +35,8 @@ The main objective of this course is to teach concepts and implementation of dee
 **Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb) [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0)  
 [Homework\_L2](Homeworks/HW\_L2.pdf)
 
-**Lecture 3: Deep Learning Networks**  
-[Homework\_L3]()
+**Lecture 3: Deep Learning Networks**[Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0)[Jupyter Notebook](Lecture_3_Notebook/lec_o3.ipynb) 
+[Homework\_L3](Homeworks/HW\_L3.pdf)
 
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX**  
 [Homework\_L4]()
