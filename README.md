@@ -39,7 +39,7 @@ The main objective of this course is to teach concepts and implementation of dee
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 2/22/2023, 11:59 PM ET
 
 
-**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 8, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 8, Feb 15, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4]()
 
 **Lecture 5: Training and Optimization**  
