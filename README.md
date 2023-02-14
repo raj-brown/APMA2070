@@ -42,7 +42,7 @@ The main objective of this course is to teach concepts and implementation of dee
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 8, Feb 15, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4]()
 
-**Lecture 5: Training and Optimization**  
+**Lecture 5: Training and Optimization** [Slides: (Feb 15, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) 
 [Homework\_L5]()
 
 **Lecture 6: Neural Network Architectures**  
