@@ -43,7 +43,7 @@ The main objective of this course is to teach concepts and implementation of dee
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/1/2023, 11:59 PM ET
 
 
-**Lecture 5: Training and Optimization** [Slides: (Feb 15, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb) 
+**Lecture 5: Training and Optimization** [Slides: (Feb 15, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb)  
 [Homework\_L5]()
 
 **Lecture 6: Neural Network Architectures**  
