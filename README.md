@@ -36,11 +36,11 @@ The main objective of this course is to teach concepts and implementation of dee
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/1/2023, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 1, 2023)](https://www.dropbox.com/s/r3y5a4k0xh1r8tt/Lecture_03_Deep_Neural_Networks.pptx?dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
-[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 2/22/2023, 11:59 PM ET
+[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/01/2023, 11:59 PM ET
 
 
 **Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 8, Feb 15, 2023)](https://www.dropbox.com/s/lbwfadrl6itluos/Lecture_04_Primer_PyT_TF_JAX.pptx?dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
-[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/8/2023, 11:59 PM ET
+[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 3/15/2023, 11:59 PM ET
 
 
 **Lecture 5: Training and Optimization** [Slides: (Feb 15, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb)  
