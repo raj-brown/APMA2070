@@ -54,7 +54,6 @@ The main objective of this course is to teach concepts and implementation of dee
 [Homework\_L5]()
 
 **Lecture 6: Neural Network Architectures** [Slides: (Feb 22, March 1, 2023)](https://www.dropbox.com/s/nen0yfkqmtptwl8/Lecture_06_NN_Architectures.pptx?dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
- 
 [Homework\_6]()
 
 [Feb 15, 2023: end of Module I Homework L6]::
