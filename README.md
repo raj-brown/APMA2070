@@ -60,7 +60,8 @@ The main objective of this course is to teach concepts and implementation of dee
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7: Discovering Differential Equations**
+**Lecture 7: Discovering Differential Equations** [Slides: (March 1, 2023)](https://www.dropbox.com/s/fmyae0djx8l2qyh/Lecture_07_DynSystems.pptx?dl=0) [Jupyter\_Notebook](Lecture_7_Notebook/dynSys.ipynb)  
+
 
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
 
