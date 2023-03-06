@@ -8,6 +8,12 @@ The main objective of this course is to teach concepts and implementation of dee
 #### Over the 13 weeks of this course (including reading period), students will spend three hours in class per week (39 hours total). A reasonable estimate to support this course’s learning outcomes is 100 hours total. Project based homework assignments may take ~30 hours, and students are expected to allocate ~30 hours to the final project.
 
 
+# Why this course
+Please read through this  
+* [<span style="color:blue"> <em>Top 10 People in ML to follow in 2023 </em> </span>](https://academy.digilab.co.uk/posts/which-ml-experts-should-you-follow-in-2023)
+
+
+
 # Instructors  
 1. [Prof. George Em Karnidakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
 2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
