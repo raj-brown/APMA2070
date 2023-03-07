@@ -105,7 +105,7 @@ Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 # Term Projects
 
 1. **Biomedicine**
-   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Description](Projects/Projects1/blood_coagulation.pdf)  
+   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Files](https://www.dropbox.com/sh/n866zxh8cxdsqz1/AADBYT_5-xS8x94RDutOJ4Xza?dl=0)  
    * Predicting drug absorption using a physics-informed neural network
    * Parameter identification in Glucose-Insulin interaction: [Project Description]
    * Parameter Estimation in Thrombus Formation: [Project Description]
