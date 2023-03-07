@@ -106,35 +106,37 @@ Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 
 1. **Biomedicine**
    * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Files](https://www.dropbox.com/sh/n866zxh8cxdsqz1/AADBYT_5-xS8x94RDutOJ4Xza?dl=0)  
-   * Predicting drug absorption using a physics-informed neural network
-   * Parameter identification in Glucose-Insulin interaction: [Project Description]
-   * Parameter Estimation in Thrombus Formation: [Project Description]
+   * Predicting drug absorption using a physics-informed neural network: [Project Files](https://www.dropbox.com/sh/acdj0nb91zg4vzr/AADHQoabk7SrwM7aP5wuESywa?dl=0)
+   * Parameter identification in Glucose-Insulin interaction: [Project Files](https://www.dropbox.com/sh/3dqxhlir7ij3k0p/AAAwzDKlUJQqb8BF5rePsmpwa?dl=0)
+   * Parameter Estimation in Thrombus Formation: [Project Files](https://www.dropbox.com/sh/a5albb9toxl79cn/AAAxkUHoq1ZCin2KDKVEXDS2a?dl=0)
 
 2. **Dynamical Systems**
-   * Charged particle in a electromagnetic field 
-   * Learning dynamical systems from data
-   * Stiff ODE systems
+   * Charged particle in a electromagnetic field: [Project Files](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)
+   * Learning dynamical systems from data: [Project Files](https://www.dropbox.com/sh/1ivo7t8uujh9zej/AADAEeF6SBeYQLt22cBF0ITXa?dl=0)
+   * Stiff ODE systems: [Project Files](https://www.dropbox.com/sh/cenqy1pqiaah9yi/AABjM5fR52SXsFuFpfjT4pvpa?dl=0)
 
 3. **Engines**
-   * Learning engine parameters
+   * Learning engine parameters: [Project Files](https://www.dropbox.com/sh/83xcrd7ossiog7r/AAAKHISuKugG91CB7OOVSsnxa?dl=0)
 
 4. **Fluid Mechanics**
-   * Modeling Bubble Growth Dynamics
-   * Reconstruction of flow past a cylinder
-   * Reconstruction of flow field for a lid driven cavity flow
-   * Solving forward and inverse problems in mathematical modeling of wave propagation
+   * Compute and benchmark the solution of Boussinesq Equation using different activation functions: [Project Files](https://www.dropbox.com/sh/x0vcr25ylpi8jok/AACvAl3f4rV5Iv6rspES14TTa?dl=0)
+   * Modeling Bubble Growth Dynamics: [Project Files](https://www.dropbox.com/sh/ep604br36ycsfih/AADbZ-5K4af-e1RRT2kEIRara?dl=0)
+   * Reconstruction of flow past a cylinder: [Project Files](https://www.dropbox.com/sh/qoxsadqlo8yevmd/AACXkzaG5ToalNAYveVaoTqLa?dl=0)
+   * Reconstruction of flow field for a lid driven cavity flow: [Project Files](https://www.dropbox.com/sh/if0auhruas9jnx9/AABEjNc6ynTCkjxJmHyDctR5a?dl=0)
+   * Solving forward and inverse problems in mathematical modeling of wave propagation: [Project Files](https://www.dropbox.com/sh/j9yiutzgsafg9ie/AACCi1bQKQoDMM5iU2sli6I1a?dl=0)
 
 5. **Geophysics**
-   * Microseismic hypocenter localization using PINNs
-   * Diffusion-Reaction in porous media
-   * Estimating sea-surface temperature using multi-fidelity data
+   * Diffusion-Reaction in porous media: [Project Files](https://www.dropbox.com/sh/wmibretvmz49c33/AAAZfNsirVYUSHeVHESGV7UQa?dl=0)
+   * Estimating sea-surface temperature using multi-fidelity data: [Project Files](https://www.dropbox.com/sh/2ny1m0jptxbw79s/AADy-rOr0RLJSRgKoRzEfkO4a?dl=0)
+   * Microseismic hypocenter localization using PINNs: [Project Files](https://www.dropbox.com/sh/9jqvrx0hwu10ngq/AADkrBAWwu-usIjSxlCQsdpOa?dl=0)
 
 6. **Heat Transfer**
-   * Inverse heat transfer problem
-   * Steady state non-linear inverse heat conduction problem
-   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser
+   * Inverse heat transfer problem: [Project Files](https://www.dropbox.com/sh/63t4hl3ifu5hqwh/AAA_FpV7iDTNaLP8rXXPtAMRa?dl=0)
+   * Steady state non-linear inverse heat conduction problem: [Project Files](https://www.dropbox.com/sh/mjkqntq6sdy0lzy/AAAWiG_xT4OMj5oIkOxVFPioa?dl=0)
+   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser: [Project Files](https://www.dropbox.com/sh/8h1v6tqm04hysrg/AAASSR5kpA4Kd6ft4imwVRcPa?dl=0)
+   * Benchmarking Finite-difference vs Automatic-Differetiation for steady-state PDEs: [Project Files](https://www.dropbox.com/s/i2w0jmd0rlx5krw/FDM_vs_AD.pdf?dl=0)
 
 7. **Materials**
-   * Inverse Problem on Modulus Identification of Hyperelastic Material
-   * Characterizing surface breaking crack using ultrasound data and PINNs
+   * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
+   * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
 
