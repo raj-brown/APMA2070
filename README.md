@@ -60,7 +60,7 @@ Please read through this
 [Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 3/29/2023
 
 **Lecture 6: Neural Network Architectures** [Slides: (Feb 22, March 1, 2023)](https://www.dropbox.com/s/nen0yfkqmtptwl8/Lecture_06_NN_Architectures.pptx?dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
-[Homework\_6](Homeworks/HW\_L6.pdf) Due Date: 4/13/2023  
+[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/13/2023  
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 4/30/2023
 
 [Feb 15, 2023: end of Module I Homework L6]::
@@ -99,6 +99,7 @@ Please read through this
 ### Office hours  
 Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 
+# [Project list](Project_list.pdf)
 
 
 
