@@ -67,7 +67,7 @@ Please read through this
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7: Discovering Differential Equations** [Slides: (March 8, 2023)](https://www.dropbox.com/s/fmyae0djx8l2qyh/Lecture_07_DynSystems.pptx?dl=0) [Jupyter\_Notebook](Lecture_7_Notebook/dynSys.ipynb)  
+**Lecture 7: Discovering Differential Equations** [Slides: (March 8, 2023)](https://www.dropbox.com/s/5sak81ce5fhjjxn/Lecture_07_DynSystems_Class.pptx?dl=0) [Jupyter\_Notebook](Lecture_7_Notebook/dynSys.ipynb)  
 
 
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
