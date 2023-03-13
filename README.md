@@ -57,10 +57,12 @@ Please read through this
 
 
 **Lecture 5: Training and Optimization** [Slides: (Feb 15, Feb 22, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb)  
-[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 3/29/2023
+[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 3/29/2023, 11:59 PM ET
+
 
 **Lecture 6: Neural Network Architectures** [Slides: (Feb 22, March 1, 2023)](https://www.dropbox.com/s/nen0yfkqmtptwl8/Lecture_06_NN_Architectures.pptx?dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
-[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/13/2023  
+[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/13/2023, 11:59 PM ET
+  
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 4/30/2023
 
 [Feb 15, 2023: end of Module I Homework L6]::
@@ -70,7 +72,9 @@ Please read through this
 **Lecture 7: Discovering Differential Equations** [Slides: (March 8, 2023)](https://www.dropbox.com/s/5sak81ce5fhjjxn/Lecture_07_DynSystems_Class.pptx?dl=0) [Jupyter\_Notebook](Lecture_7_Notebook/dynSys.ipynb)  
 
 
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I**
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 15, 2023)](https://www.dropbox.com/s/5z9lgbfxj7cl3xq/Lecture_08_PINNs_I.pptx?dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
+
+
 
 **Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II**
 
