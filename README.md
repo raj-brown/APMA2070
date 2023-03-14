@@ -5,7 +5,7 @@ The main objective of this course is to teach concepts and implementation of dee
 
 # Workload
 
-#### Over the 13 weeks of this course (including reading period), students will spend three hours in class per week (39 hours total). A reasonable estimate to support this course’s learning outcomes is 100 hours total. Project based homework assignments may take ~30 hours, and students are expected to allocate ~30 hours to the final project.
+#### Over the 13 weeks of this course (including reading period), students will spend three hours in class per week (39 hours total). A reasonable estimate to support this course’s learning outcomes is 180 hours total. Project based homework assignments may take ~60 hours, and students are expected to allocate ~80 hours to the final project.
 
 
 # Why this course
