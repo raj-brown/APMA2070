@@ -101,7 +101,7 @@ Please read through this
 
 
 ### Office hours  
-Monday 3:00 - 5:00 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
+Monday 3:00 - 5:30 PM, Location: 170 Hope St., Room No: 308, Providence RI 02906
 
 # [Project list](Project_list.pdf)
 
