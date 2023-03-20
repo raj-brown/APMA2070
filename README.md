@@ -57,11 +57,11 @@ Please read through this
 
 
 **Lecture 5: Training and Optimization** [Slides: (Feb 15, Feb 22, 2023)](https://www.dropbox.com/s/h90pl64rbqfa5jx/Lecture_05_Training_and_Optimization.pptx?dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/learning_rate_scheduler.ipynb)  
-[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 3/29/2023, 11:59 PM ET
+[Homework\_L5](Homeworks/HW\_L5.pdf)  Due Date: 4/13/2023, 11:59 PM ET
 
 
 **Lecture 6: Neural Network Architectures** [Slides: (Feb 22, March 1, 2023)](https://www.dropbox.com/s/nen0yfkqmtptwl8/Lecture_06_NN_Architectures.pptx?dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
-[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/13/2023, 11:59 PM ET
+[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/27/2023, 11:59 PM ET
   
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 4/30/2023
 
