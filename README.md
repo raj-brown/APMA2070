@@ -83,7 +83,7 @@ Please read through this
 
 **Lecture 10: Deep Operator Network (DeepONet)**
 
-**Lecture 11: Implementation of PINNs & DeepOnet**
+**Lecture 11: Implementation of PINNs and DeepOnet**
 
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
