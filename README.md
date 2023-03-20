@@ -83,7 +83,7 @@ Please read through this
 
 **Lecture 10: Deep Operator Network (DeepONet)**
 
-**Lecture 11: Fourier Neural Operator (FNO)**
+**Lecture 11: Implementation of PINNs & DeepOnet**
 
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
