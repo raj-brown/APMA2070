@@ -82,7 +82,7 @@ Please read through this
 ## Module III: Neural Operators
 
 **Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 5, 2023)](https://www.dropbox.com/s/bsb7n7m30x982n3/Lecture_10_DeepONet.pptx?dl=0)  [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
- [ADD\_ON:FOURIER\REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
+ [ADD\_ON:FOURIER\_REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
 
 **Lecture 11: Implementation of PINNs and DeepOnet**
 
