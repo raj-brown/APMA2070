@@ -23,8 +23,6 @@ def DNN(X, W, b):
     Y = tf.add(tf.matmul(A, W[-1]), b[-1])
     return Y
 
-
-
 def trainable_variables(W, b):
     return W + b
 
@@ -89,8 +87,6 @@ if __name__ == '__main__':
             loss_, y_pred = training_step(x_train, y_train, W, b, opt, True)
         else:
             loss_, y_pred = training_step(x_train, y_train, W, b, opt, True)
-
-
         if n%100 == 0:
             print('rank %d: n = %d, loss = %.3e'%(hvd.rank(), n, loss_))
     stop_time = time.perf_counter()
