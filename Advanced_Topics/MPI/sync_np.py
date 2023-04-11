@@ -18,9 +18,6 @@ else:
     data = np.empty(shape=(M, N), dtype='f')
     comm.Recv([data, MPI.FLOAT], source=0, tag=50 + rank)
 
-#comm.Barrier()
-
 print(f"data: {data} from rank: {rank}\n")
-
 MPI.Finalize()
 

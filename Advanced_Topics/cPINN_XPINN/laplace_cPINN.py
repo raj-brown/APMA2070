@@ -87,11 +87,8 @@ if __name__ == '__main__':
     if rank == 1:
         x = np.array([1]).reshape((-1, 1))
     
-
     y = np.sin(2*np.pi*x)    
-
     x_int = np.array([0.0]).reshape((-1, 1))
-
     x_f =  tf.convert_to_tensor(x_f, dtype=tf.float32)
     x_train = tf.convert_to_tensor(x, dtype=tf.float32)
     y_train = tf.convert_to_tensor(y, dtype=tf.float32)
@@ -104,17 +101,14 @@ if __name__ == '__main__':
     L = len(layers)
     W = [hyper_initial([layers[l-1], layers[l]]) for l in range(1, L)] 
     b = [tf.Variable(tf.zeros([1, layers[l]])) for l in range(1, L)]     
-    
     lr = 0.001
     opt = tf.optimizers.Adam(lr)    
-   
     Nmax = 15000 # Iteration counter
 
     def loss_fn(x, y, x_f, xint, W, b):
         y_nn = DNN(x, W, b)
         R_nn = pde_nn(x_f, W, b)    
         u_x, u = flux_nn(xint, W, b)
-        
         u_np = u.numpy()
         u_x_np = u_x.numpy()
         u_prev = np.zeros_like(u_np)
@@ -131,7 +125,6 @@ if __name__ == '__main__':
             loss_u = u - 0.5*(u + u_next)
             loss_f = u_x - 0.5*(u_x + u_x_next)
             loss_uf = tf.reduce_mean(tf.square(loss_u)) + tf.reduce_mean(tf.square(loss_f))
-        
         elif rank == 1:
             comm.Recv(u_prev, source=0, tag=11)
             comm.Send(u_np,  dest=0, tag=12)
@@ -142,8 +135,6 @@ if __name__ == '__main__':
             loss_uf = tf.reduce_mean(tf.square(loss_u)) + tf.reduce_mean(tf.square(loss_f))
         #sys.exit()
         comm.Barrier()
-        loss_data = tf.reduce_mean(tf.square(y_nn - y))
-        loss_phys = tf.reduce_mean(tf.square(R_nn))
         loss = tf.reduce_mean(tf.square(y_nn - y)) + tf.reduce_mean(tf.square(R_nn)) + loss_uf
         return loss, loss_uf, y_nn
 

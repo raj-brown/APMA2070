@@ -6,7 +6,7 @@ rank = comm.Get_rank()
 size = comm.Get_size()
 
 N=100  # Size of Buffer
-send_buf = np.zeros(100, dtype='i')
+send_buf = np.zeros(N, dtype='i') + rank
 recv_buf = None
 
 if rank == 0:
