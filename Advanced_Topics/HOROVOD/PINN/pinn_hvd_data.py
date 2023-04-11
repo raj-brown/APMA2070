@@ -84,8 +84,8 @@ if __name__ == '__main__':
     x_1 = np.array([1]).reshape((-1, 1))
     x = np.vstack((x_0, x_1))
     
-    y_0 = -np.sin(2*np.pi*x_0)
-    y_1 = -np.sin(2*np.pi*x_1)
+    y_0 = np.sin(2*np.pi*x_0)
+    y_1 = np.sin(2*np.pi*x_1)
     y = np.vstack((y_0, y_1))
 
     x_f =  tf.convert_to_tensor(x_f, dtype=tf.float32)
