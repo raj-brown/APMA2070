@@ -84,7 +84,7 @@ Please read through this
 **Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 5, 2023)](https://www.dropbox.com/s/bsb7n7m30x982n3/Lecture_10_DeepONet.pptx?dl=0)  [Jupyter\_Notebook](Lecture_10_Notebook/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
  [ADD\_ON:FOURIER\_REVIEW](https://www.dropbox.com/s/td0alw980o6kv6n/Lecture_10_Fourier_Add_on.pptx?dl=0) [Jupyter\_Notebook\_Fourier](Lecture_10_Notebook/fourier_example.ipynb)
 
-**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 12, 2023)](https://www.dropbox.com/s/c9reg4t51vnucr9/Lecture_11_implementation_PINNS_DeepXDE.pptx?dl=0) [Video](https://www.dropbox.com/s/7djuy296vqs0hbx/Lecture_11_DeepXDE.mp4?dl=0) 
+**Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 12, 2023)](https://www.dropbox.com/s/c9reg4t51vnucr9/Lecture_11_implementation_PINNS_DeepXDE.pptx?dl=0) [Video](https://www.dropbox.com/s/7djuy296vqs0hbx/Lecture_11_DeepXDE.mp4?dl=0)[Jupyter\_Notebook](Lecture_11_Notebook/deepXde.ipynb) 
 
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
