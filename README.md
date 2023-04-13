@@ -15,7 +15,7 @@ Please read through this
 
 
 # Instructors  
-1. [Prof. George Em Karnidakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
+1. [Prof. George Em Karniadakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en&oi=ao)
 2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
 
 
