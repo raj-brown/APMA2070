@@ -13,6 +13,9 @@ else:
     data = None
     print(f"Data: {data} and Rank:{rank}")
     req = comm.irecv(source=0, tag=10)
+    z = 2*2
+    
+
     data = req.wait()
     print(f"Data Recieved Asynchronously on Rank: {rank} and data is: {data} ")
 
