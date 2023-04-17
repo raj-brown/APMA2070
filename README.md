@@ -97,7 +97,7 @@ Please read through this
 
 ## Advanced Topics
 
-1. **Multi-GPU Scientific Machine Learning** [Slides: (April 12, April 19, 2023)](https://www.dropbox.com/s/bv68sehg1yssg1w/Multi-GPU%20Scientific%20Machine%20Learning.pptx?dl=0)[Python Code](Advanced_Topics)
+1. **Multi-GPU Scientific Machine Learning** [Slides: (April 12, April 19, 2023)](https://www.dropbox.com/s/bv68sehg1yssg1w/Multi-GPU%20Scientific%20Machine%20Learning.pptx?dl=0) [Python Code](Advanced_Topics)
 
 
 
