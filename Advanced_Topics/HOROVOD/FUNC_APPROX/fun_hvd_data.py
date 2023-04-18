@@ -38,7 +38,7 @@ def training_step(x, y, W, b, opt, it):
     grads = tape.gradient(loss, trainable_variables(W, b))
     opt.apply_gradients(zip(grads, trainable_variables(W, b)))
 
-    if it == 0:
+    if it == True:
         hvd.broadcast_variables(trainable_variables(W, b), root_rank=0)
         hvd.broadcast_variables(opt.variables(), root_rank=0)
     return loss, y_nn
