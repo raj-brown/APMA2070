@@ -9,6 +9,9 @@ data = np.zeros(4)
 for i in range(comm.rank, len(data), comm.size):
     data[i] = i
 
+print(f"Data: {data} and Rank: {rank}")
+
+
 if rank==0:
     reduce_array = np.zeros_like(data)
 else:

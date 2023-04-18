@@ -14,8 +14,8 @@ if rank == 0:
 
 comm.Gather(send_buf, recv_buf, root=0)
 
-if rank==size-1:
+if rank==0:
     for i in range(size):
         assert np.allclose(recv_buf[i, :], i)
 
-print("Test passed from rank: {rank}")
+print(f"Test passed from rank: {rank}")
