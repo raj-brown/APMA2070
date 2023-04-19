@@ -89,7 +89,7 @@ Please read through this
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
-**Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 19, April 26, 2023)](https://www.dropbox.com/s/jl4yjeao8jvxkm7/Lecture_10_DeepONet.pptx?dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
+**Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 19, April 26, 2023)](https://www.dropbox.com/s/0lq9w00zzz57p22/Lecture_12_Multi-fidelity_GK.pptx?dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
 
 **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning**
 
