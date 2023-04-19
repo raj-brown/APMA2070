@@ -42,7 +42,7 @@ Please read through this
 
 ## Module I: Basics 
 
-**Lecture 1 : Introduction** [Slides: (Jan 25,2023)]#(https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0)  
+**Lecture 1 : Introduction** [Slides: (Jan 25,2023)](https://www.dropbox.com/s/nct8ohrir7ogiy0/Lecture_01_Introduction.pptx?dl=0)  
 [No Homework]()   
 
 **Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 25, 2023)](https://www.dropbox.com/s/r6olq0vijentewj/Lecture_02_Primer_Python_Final.pptx?dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
