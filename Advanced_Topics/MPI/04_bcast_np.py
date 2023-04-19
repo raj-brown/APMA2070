@@ -7,13 +7,14 @@ size = comm.Get_size()
 
 N=100  # Size of Buffer
 
-if rank == 0:
+if rank == size-1:
     data = np.arange(N, dtype='i')
 else:
     data = np.empty(N, dtype='i')
 
-comm.Bcast(data, root=0)
+comm.Bcast(data, root=size-1)
 
 for i in range(0, N):
-    assert data[i] == i
+    print(f"Rank: {rank}")
+    assert data[i] == i 
 
